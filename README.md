@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Set up my own blog，utils,and visualization Low code and Some interesting techniques...
+- 🌱 I’m currently learning vite nestjs typescript react vue3 and something about engineering
+- 🤔 I’m looking for help with Introduce a new job
+- ⚡ Fun fact: 🎱 is interesting
+
+
+
 <!--
 **jmni-cn/jmni-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
