@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Set up my own blog，utils,and visualization Low code and Some interesting techniques...
 - 🌱 I’m currently learning vite nestjs typescript react vue3 and something about engineering
 - 🤔 I’m looking for a new job
-- ⚡ Fun fact: 🎱 is interesting
+- ⚡ Fun fact: 🎱🏀🏓 is interesting
 
 
 
